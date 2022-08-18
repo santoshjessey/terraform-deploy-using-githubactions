@@ -1,3 +1,3 @@
-region = "us-east-1"
+region = "us-east-2"
 bucket = "ecs-cluster-terraformm"
 key    = "ecs/test/terraform.tfstate"
